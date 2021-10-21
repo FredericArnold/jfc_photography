@@ -9,5 +9,5 @@ La solution permet également d’automatiser les relances aux visiteurs et clie
 Ce nouveau site, développé sous Symfony 5 avec l'injection d'un webservice tel que EasyAdmin (création de back Office) et deux API (Mailjet - envoi de mail et STRIPE - gestion des paiements) vient remplacer la configuration d'origine qui n'en possédait pas afin d'améliorer le trafic des utilisateurs par des conseils pratiques, de faciliter l'achat de produits et d’adopter une stratégie de SEO plus efficace pour son référencement.</p>
 
 Arnold Frederic
-©jfcphotography-2021-
+©jfcphotography-2021-Tous droits réservés.
 Concepteur/ Développeur Web
